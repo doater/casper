@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "0.1.0",
+  "description": "Netdisk Automating Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "casperjs test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "casperjs"
+  ],
+  "author": "Chiang",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {}
+}
