@@ -6,6 +6,13 @@
 对web项目进行自动化测试
 
 ## 使用 ##
+**环境依赖**
+
+1. 安装python，并配置环境变量
+2. 安装[phantomjs](https://www.npmjs.com/package/phantomjs)
+3. 安装[node](https://nodejs.org/en/)
+
+
 目录结构
 	
     /
