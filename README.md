@@ -8,7 +8,7 @@
 ## 使用 ##
 **环境依赖**
 
-1. 安装python，并配置环境变量
+1. 安装[python](https://www.python.org/)，并配置环境变量
 2. 安装[phantomjs](https://www.npmjs.com/package/phantomjs)
 3. 安装[node](https://nodejs.org/en/)
 
